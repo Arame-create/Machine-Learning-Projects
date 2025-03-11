@@ -15,8 +15,9 @@ Each project includes notebooks, datasets, and visualization techniques to explo
     Dataset: UCI Wine Dataset.
          
 🔍 Models Used:    
-    * Logistic Regression    
-    * Decision Trees   
-    * Random Forest   
-    * Support Vector Machines (SVM)  
+    - Logistic Regression    
+    - Decision Trees   
+    - Random Forest   
+    - Support Vector Machines (SVM)  
+    
 📈 Metrics: Accuracy, Precision, Recall, Confusion Matrix, and ROC Curve.    
