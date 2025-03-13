@@ -10,7 +10,7 @@ Each project includes notebooks, datasets, and visualization techniques to explo
 
  ## Current Projects:     
  
- 1. Wine Classification (Wine_Classification.ipynb)
+ 1. Wine Classification (Wine_Classification.ipynb)    
     Goal: Classify wine types based on their chemical properties.     
     Dataset: UCI Wine Dataset.
          
