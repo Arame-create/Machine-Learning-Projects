@@ -21,3 +21,16 @@ Each project includes notebooks, datasets, and visualization techniques to explo
     - Support Vector Machines (SVM)
     
     📈 Metrics: Accuracy, Precision, Recall, Confusion Matrix, and ROC Curve.    
+
+ 2. Loan Default Probability Prediction (LoanDefaultProbability_STUDENT_V1.ipynb)  
+    Goal: Predict loan default probability based on borrower and loan attributes.    
+    Dataset: LoansData_sample.csv.gz.     
+
+    🔍 Models Used:
+    - Logistic Regression   
+    - Random Forest   
+    - AdaBoost   
+    - Decision Trees
+    - K-Nearest Neighbors
+
+    📈 Metrics: Accuracy, Confusion Matrix, ROC Curve, and AUC Score.
